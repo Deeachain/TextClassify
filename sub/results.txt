@@ -1,0 +1,6 @@
+svm:81.56
+bayes:76.43
+xgboost:77.66
+rnn:84.58
+cnn:89.41
+bert:93.75
